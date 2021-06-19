@@ -1,2 +1,3 @@
 # hello-world
-tutorial
+tutorial 
+hello I am freya
